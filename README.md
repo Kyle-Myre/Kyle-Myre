@@ -1,12 +1,12 @@
-<h3 align="left">Hi 👋! Moon Fang Su</h3>
+<h3 align="center">Hi 👋! Moon Fang Su</h3>
 
 ###
 
-<h4 align="left">Web / Software Developer</h4>
+<h4 align="center">Web / Software Developer</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -52,9 +52,11 @@
 
 ###
 
-<br clear="both">
+<img align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
-<div align="left">
+###
+
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=Moon-Fang-Su&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moon-Fang-Su&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Moon-Fang-Su&theme=dracula&column=3&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
