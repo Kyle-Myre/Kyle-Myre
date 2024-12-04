@@ -1,29 +1,61 @@
-# Moon Fang Su
+<h3 align="left">Hi 👋! Moon Fang Su</h3>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoon-Fang-Su%2FMoon-Fang-Su&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+###
 
+<h4 align="left">Web / Software Developer</h4>
 
+###
 
-
-
-[![Github](https://img.shields.io/github/followers/Moon-Fang-Su?label=Follow&style=social)](https://github.com/Moon-Fang-Su)
-
-- 🤔 I’m currently learning Spring Boot Java
-
-### 🖥 Skills
-
-- Frontend Web Developement
-- Backend Web Developement
-- Devops
-### ⚙️ Tech Stack
-
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django&color=353535) ![Bootstrap](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=Visual-Studio-Code&color=353535) ![Bootstrap](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring&color=353535) ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&color=353535) ![Bootstrap](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express&color=353535) ![Bootstrap](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&color=353535) ![Bootstrap](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js&color=353535) ![Bootstrap](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=JQuery&color=353535) ![Bootstrap](https://img.shields.io/badge/-Sqlite-05122A?style=flat&logo=Sqlite&color=353535) ![Bootstrap](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.NET&color=353535)
-
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Moon-Fang-Su&show_icons=true&locale=en&layout=compact" alt="Moon-Fang-Su" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Moon-Fang-Su&" alt="Moon-Fang-Su" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
+###
 
----
-:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moon-Fang-Su&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Moon-Fang-Su&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Moon-Fang-Su&theme=dracula&column=4&row=2&margin-w=10&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
