@@ -42,12 +42,12 @@
 
 <div style="display:flex;gap:15px;">
   <a>
-    <img height=125 align="center" src="https://github-readme-stats.vercel.app/api?username=kyle-myre&show_icons=true&theme=radical" />
+    <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=kyle-myre&show_icons=true&theme=radical" />
   </a>
   <a>
-    <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyle-myre&hide_progress=true&theme=radical" />
+    <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyle-myre&hide_progress=true&theme=radical" />
   </a>
   <a>
-    <img height=125 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyle-myre&theme=radical"/>
+    <img height=100 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyle-myre&theme=radical"/>
   </a>
 </div>
