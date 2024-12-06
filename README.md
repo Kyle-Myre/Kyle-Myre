@@ -36,7 +36,13 @@
   <img src="https://img.shields.io/badge/css-%231572B6.svg?style=style-plastic-green&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/sqlite-%23003B57.svg?style=style-plastic-green&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=style-plastic-green&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=style-plastic-green&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/redux-%23764ABC.svg?style=style-plastic-green&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=style-plastic-green&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=style-plastic-green&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=style-plastic-green&logo=django&logoColor=white" />
 </div>
+
 
 <br/>
 
