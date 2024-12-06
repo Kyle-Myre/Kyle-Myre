@@ -1,29 +1,25 @@
-<h1 style="text-align:center;">
-  Kyle Mirage
-</h1>
+<h1 align="center">Hi 👋, I'm Kyle Mirage</h1>
+<h3 align="center">A Free Time Web Developer</h3>
 
-[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoon-Fang-Su&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://github.com/Moon-Fang-Su) [![Github](https://img.shields.io/github/followers/Moon-Fang-Su?label=Follow&style=social)](https://github.com/Moon-Fang-Su)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyle-mirage&label=Profile%20views&color=0e75b6&style=flat" alt="kyle-mirage" /> </p>
 
-### 📄 About
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyle-mirage" alt="kyle-mirage" /></a> </p>
 
-- 💻 Full-stack Web Developer with experience in modern web technologies.
-- 🌱 Currently enhancing skills in **TypeScript**, **React**, and **Docker**.
+- 🌱 I’m currently learning **Spring Boot & Networking**
 
----
+- 💬 Ask me about **React.JS and Laravel**
 
-### 🖥 Skills  
+- ⚡ Fun fact **I am doing this for fun :)**
 
-- **Frontend**: HTML, CSS, JavaScript, React, Vue.js  
-- **Backend**: Node.js, Express, Flask, Django  
-- **Databases**: MongoDB, MySQL  
-- **Other Technologies**: TypeScript, Tailwind CSS, Docker, Git  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-### ⚙️ Tech Stack  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyle-mirage&show_icons=true&locale=en&layout=compact" alt="kyle-mirage" /></p>
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5&color=353535) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&color=353535)  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript&color=353535)  ![React](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535)  ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat-square&logo=Vue.js&color=353535)  ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=TypeScript&color=353535)  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=Node.js&color=353535)  ![Express](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=Express&color=353535)  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535)  ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535)  ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat-square&logo=Tailwind-CSS&color=353535)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyle-mirage&show_icons=true&locale=en" alt="kyle-mirage" /></p>
 
---- 
-
-Feel free to connect! 😊
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyle-mirage&" alt="kyle-mirage" /></p>
