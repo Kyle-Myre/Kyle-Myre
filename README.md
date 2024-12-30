@@ -4,9 +4,9 @@
 [![Github](https://img.shields.io/github/followers/Kyle-Myre?label=Follow&style=social)](https://github.com/Kyle-Myre)
 
 - 💻 Web developer and software developer.
-- 🤔 I’m currently reading about Spring Boot & Advanced Infrastructor Networking.
-- 🌱 I also Work on open source side projects.
-- 📫 How to reach me via discord kyle.myre
+- 🤔 I’m currently reading about Spring Boot & Kotlin.
+- 🌱 I also work on open source side projects.
+- 📫 How to reach me via my discord kyle.myre
 
 
 ### 🖥 Skills
